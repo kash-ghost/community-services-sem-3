@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-10-20T19:10:14.211348+00:00",
+  "total_cells": 6925,
+  "fsi_mean": 0.6064,
+  "fsi_std": 0.1187,
+  "fsi_class_distribution": {
+    "high": 4748,
+    "moderate": 1455,
+    "very_high": 717,
+    "low": 5
+  },
+  "features": {
+    "elevation_m": {
+      "mean": 238.6003,
+      "std": 29.8809,
+      "min": 192.01,
+      "max": 337.25,
+      "null_count": 0,
+      "weight": 0.3
+    },
+    "slope_deg": {
+      "mean": 2.0773,
+      "std": 2.1257,
+      "min": 0.0,
+      "max": 16.38,
+      "null_count": 0,
+      "weight": 0.2
+    },
+    "built_up_frac": {
+      "mean": 0.1951,
+      "std": 0.2779,
+      "min": 0.0,
+      "max": 1.0,
+      "null_count": 0,
+      "weight": 0.15
+    },
+    "dist_to_water_m": {
+      "mean": 10041.3202,
+      "std": 7213.2991,
+      "min": 0.0,
+      "max": 29837.1,
+      "null_count": 0,
+      "weight": 0.15
+    },
+    "dist_to_drain_m": {
+      "mean": 11345.7376,
+      "std": 7463.517,
+      "min": 2.5,
+      "max": 31492.1,
+      "null_count": 0,
+      "weight": 0.1
+    },
+    "veg_frac": {
+      "mean": 0.298,
+      "std": 0.3184,
+      "min": 0.0,
+      "max": 1.0,
+      "null_count": 0,
+      "weight": 0.05
+    },
+    "water_frac": {
+      "mean": 0.0047,
+      "std": 0.0369,
+      "min": 0.0,
+      "max": 0.8701,
+      "null_count": 0,
+      "weight": 0.03
+    },
+    "monsoon_rainfall_mm": {
+      "mean": 528.7,
+      "std": 0.0,
+      "min": 528.7,
+      "max": 528.7,
+      "null_count": 0,
+      "weight": 0.02
+    }
+  }
+}

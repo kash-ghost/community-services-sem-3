@@ -1,0 +1,53 @@
+{
+  "preprocessed_at": "2026-10-20T19:08:12.211739+00:00",
+  "gmda": {
+    "status": "ok",
+    "total_records": 25,
+    "in_study_area": 25,
+    "null_surveydate_count": 25,
+    "waterlogging_type_count": 24,
+    "processed_file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\processed\\gmda_survey_points.geojson",
+    "supervised_ml_feasible": false,
+    "note": "All 25 survey dates are NULL. Used exclusively as validation/reference overlay."
+  },
+  "rainfall": {
+    "status": "ok",
+    "total_days": 3561,
+    "date_range": [
+      "2015-01-01",
+      "2024-09-30"
+    ],
+    "mean_annual_monsoon_mm": 528.7,
+    "monsoon_years": 10,
+    "daily_file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\processed\\rainfall_daily.csv",
+    "monsoon_file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\processed\\rainfall_monsoon_annual.csv"
+  },
+  "dem": {
+    "status": "ok",
+    "tiles_merged": [
+      "Copernicus_DSM_COG_10_N28_00_E076_00_DEM.tif",
+      "Copernicus_DSM_COG_10_N28_00_E077_00_DEM.tif"
+    ],
+    "elevation_min_m": 187.5,
+    "elevation_max_m": 346.8,
+    "elevation_mean_m": 238.6,
+    "approx_resolution_m": 30.9,
+    "processed_file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\processed\\dem_gurugram.tif"
+  },
+  "landcover": {
+    "status": "ok",
+    "total_pixels": 22680000,
+    "approx_resolution_m": 9.3,
+    "built_up_percentage": 19.45,
+    "vegetation_percentage": 29.73,
+    "water_percentage": 0.46,
+    "processed_file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\processed\\landcover_gurugram.tif"
+  },
+  "drainage_infrastructure": {
+    "status": "ok",
+    "gmda_drain_legs_count": 4,
+    "gmda_waterbodies_count": 211,
+    "mcg_wards_count": 36,
+    "source": "GMDA OneMap Official GIS Server (onemapdepts.gmda.gov.in)"
+  }
+}

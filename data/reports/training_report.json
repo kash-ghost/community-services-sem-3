@@ -1,0 +1,7 @@
+{
+  "status": "deferred",
+  "active_mode": "Flood Susceptibility Index (FSI)",
+  "supervised_models_trained": false,
+  "reason": "Empirical ground-truth flood inundation polygons with timestamps are not present in public GMDA survey.",
+  "ml_scaffold_status": "Ready for deployment upon ingestion of verified labels.parquet."
+}

@@ -1,0 +1,25 @@
+{
+  "assessed_at": "2026-10-20T19:11:22.539416+00:00",
+  "total_observed_locations": 25,
+  "locations_with_valid_timestamp": 0,
+  "counterfactual_non_flooded_samples": 0,
+  "supervised_labels_viable": false,
+  "verdict": "SUPERVISED_ML_INSUFFICIENT_EVIDENCE",
+  "rationale": [
+    "All 25 GMDA records lack survey dates (surveydate is NULL).",
+    "Without timestamps, flood events cannot be correlated with specific daily rainfall episodes.",
+    "Absence of reported waterlogging in a grid cell does not prove it did not flood (presence-only bias).",
+    "Synthesizing pseudo-absence points arbitrarily would introduce severe label noise and distort decision boundaries."
+  ],
+  "decision": "Employ Multi-Criteria Flood Susceptibility Index (FSI) using AHP literature weights; preserve ML training module as ready scaffold.",
+  "future_prerequisites_for_ml": {
+    "minimum_positive_samples": 100,
+    "minimum_verified_negative_samples": 100,
+    "required_fields": [
+      "surveydate",
+      "water_depth_cm",
+      "duration_hours",
+      "geometry"
+    ]
+  }
+}

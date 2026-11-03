@@ -1,0 +1,122 @@
+{
+  "analyzed_at": "2026-10-20T19:11:40.668335+00:00",
+  "total_perturbation_scenarios": 16,
+  "min_spearman_rank_correlation": 0.9974,
+  "max_spearman_rank_correlation": 1.0,
+  "average_spearman_rank_correlation": 0.9992,
+  "stability_assessment": "Robust",
+  "details": {
+    "elevation_m_plus_20_pct": {
+      "feature": "elevation_m",
+      "variation": "plus_20_pct",
+      "new_weight": 0.3396,
+      "spearman_rank_correlation": 0.998,
+      "fsi_mean_shift": 0.0041
+    },
+    "elevation_m_minus_20_pct": {
+      "feature": "elevation_m",
+      "variation": "minus_20_pct",
+      "new_weight": 0.2553,
+      "spearman_rank_correlation": 0.9974,
+      "fsi_mean_shift": -0.0046
+    },
+    "slope_deg_plus_20_pct": {
+      "feature": "slope_deg",
+      "variation": "plus_20_pct",
+      "new_weight": 0.2308,
+      "spearman_rank_correlation": 0.9996,
+      "fsi_mean_shift": 0.0103
+    },
+    "slope_deg_minus_20_pct": {
+      "feature": "slope_deg",
+      "variation": "minus_20_pct",
+      "new_weight": 0.1667,
+      "spearman_rank_correlation": 0.9996,
+      "fsi_mean_shift": -0.0111
+    },
+    "built_up_frac_plus_20_pct": {
+      "feature": "built_up_frac",
+      "variation": "plus_20_pct",
+      "new_weight": 0.1748,
+      "spearman_rank_correlation": 0.9986,
+      "fsi_mean_shift": -0.012
+    },
+    "built_up_frac_minus_20_pct": {
+      "feature": "built_up_frac",
+      "variation": "minus_20_pct",
+      "new_weight": 0.1237,
+      "spearman_rank_correlation": 0.9982,
+      "fsi_mean_shift": 0.0127
+    },
+    "dist_to_water_m_plus_20_pct": {
+      "feature": "dist_to_water_m",
+      "variation": "plus_20_pct",
+      "new_weight": 0.1748,
+      "spearman_rank_correlation": 0.9989,
+      "fsi_mean_shift": 0.0017
+    },
+    "dist_to_water_m_minus_20_pct": {
+      "feature": "dist_to_water_m",
+      "variation": "minus_20_pct",
+      "new_weight": 0.1237,
+      "spearman_rank_correlation": 0.9988,
+      "fsi_mean_shift": -0.0018
+    },
+    "dist_to_drain_m_plus_20_pct": {
+      "feature": "dist_to_drain_m",
+      "variation": "plus_20_pct",
+      "new_weight": 0.1176,
+      "spearman_rank_correlation": 0.9995,
+      "fsi_mean_shift": 0.0007
+    },
+    "dist_to_drain_m_minus_20_pct": {
+      "feature": "dist_to_drain_m",
+      "variation": "minus_20_pct",
+      "new_weight": 0.0816,
+      "spearman_rank_correlation": 0.9995,
+      "fsi_mean_shift": -0.0007
+    },
+    "veg_frac_plus_20_pct": {
+      "feature": "veg_frac",
+      "variation": "plus_20_pct",
+      "new_weight": 0.0594,
+      "spearman_rank_correlation": 0.9998,
+      "fsi_mean_shift": 0.0009
+    },
+    "veg_frac_minus_20_pct": {
+      "feature": "veg_frac",
+      "variation": "minus_20_pct",
+      "new_weight": 0.0404,
+      "spearman_rank_correlation": 0.9998,
+      "fsi_mean_shift": -0.001
+    },
+    "water_frac_plus_20_pct": {
+      "feature": "water_frac",
+      "variation": "plus_20_pct",
+      "new_weight": 0.0358,
+      "spearman_rank_correlation": 1.0,
+      "fsi_mean_shift": -0.0036
+    },
+    "water_frac_minus_20_pct": {
+      "feature": "water_frac",
+      "variation": "minus_20_pct",
+      "new_weight": 0.0241,
+      "spearman_rank_correlation": 1.0,
+      "fsi_mean_shift": 0.0036
+    },
+    "monsoon_rainfall_mm_plus_20_pct": {
+      "feature": "monsoon_rainfall_mm",
+      "variation": "plus_20_pct",
+      "new_weight": 0.0239,
+      "spearman_rank_correlation": 1.0,
+      "fsi_mean_shift": -0.0024
+    },
+    "monsoon_rainfall_mm_minus_20_pct": {
+      "feature": "monsoon_rainfall_mm",
+      "variation": "minus_20_pct",
+      "new_weight": 0.0161,
+      "spearman_rank_correlation": 1.0,
+      "fsi_mean_shift": 0.0024
+    }
+  }
+}

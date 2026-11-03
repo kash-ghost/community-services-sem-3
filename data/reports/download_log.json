@@ -1,0 +1,45 @@
+{
+  "downloaded_at": "2026-10-20T18:45:26.069569+00:00",
+  "study_bbox": [
+    76.8,
+    28.2,
+    77.25,
+    28.55
+  ],
+  "results": {
+    "rainfall": {
+      "status": "ok",
+      "records": 3561,
+      "file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\raw\\rainfall\\openmeteo_gurugram_2015_2024.json"
+    },
+    "dem": {
+      "Copernicus_DSM_COG_10_N28_00_E076_00_DEM": {
+        "status": "ok",
+        "file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\raw\\elevation\\Copernicus_DSM_COG_10_N28_00_E076_00_DEM.tif",
+        "size_mb": 40.5
+      },
+      "Copernicus_DSM_COG_10_N28_00_E077_00_DEM": {
+        "status": "ok",
+        "file": "D:\\community service sem 3\\flood-vulnerability-framework\\data\\raw\\elevation\\Copernicus_DSM_COG_10_N28_00_E077_00_DEM.tif",
+        "size_mb": 41.7
+      }
+    },
+    "landcover": {
+      "ESA_WorldCover_v200_2021_v300_N27E075_Map": {
+        "status": "unavailable",
+        "note": "Download manually from https://zenodo.org/record/7254221"
+      }
+    },
+    "osm": {
+      "waterways": {
+        "status": "error",
+        "error": "406 Client Error: Not Acceptable for url: https://overpass-api.de/api/interpreter"
+      },
+      "water_polygons": {
+        "status": "error",
+        "error": "406 Client Error: Not Acceptable for url: https://overpass-api.de/api/interpreter"
+      }
+    }
+  },
+  "elapsed_seconds": 627.3
+}

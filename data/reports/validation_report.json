@@ -1,0 +1,114 @@
+{
+  "evaluated_at": "2026-10-20T19:11:40.619308+00:00",
+  "total_waterlogging_points": 24,
+  "points_in_high_or_very_high_susceptibility": 24,
+  "spatial_consistency_rate_pct": 100.0,
+  "distribution_across_classes": {
+    "high": 11,
+    "very_high": 13
+  },
+  "evaluation_type": "Qualitative Spatial Consistency Check (Empirical reference, not supervised test)",
+  "interpretation": "100.0% of surveyed waterlogged locations in Gurugram fall into cells designated as High or Very High flood susceptibility by the framework.",
+  "point_breakdown": [
+    {
+      "objectid": 406,
+      "location": [
+        77.00439,
+        28.40115
+      ],
+      "cell_id": "C_045_039",
+      "fsi": 0.6947,
+      "fsi_class": "high"
+    },
+    {
+      "objectid": 2404,
+      "location": [
+        77.0204,
+        28.38627
+      ],
+      "cell_id": "C_042_042",
+      "fsi": 0.7307,
+      "fsi_class": "high"
+    },
+    {
+      "objectid": 1206,
+      "location": [
+        76.96678,
+        28.36141
+      ],
+      "cell_id": "C_036_032",
+      "fsi": 0.6431,
+      "fsi_class": "high"
+    },
+    {
+      "objectid": 1604,
+      "location": [
+        77.01627,
+        28.40007
+      ],
+      "cell_id": "C_045_042",
+      "fsi": 0.7375,
+      "fsi_class": "high"
+    },
+    {
+      "objectid": 806,
+      "location": [
+        76.97782,
+        28.39076
+      ],
+      "cell_id": "C_043_034",
+      "fsi": 0.7456,
+      "fsi_class": "high"
+    },
+    {
+      "objectid": 2804,
+      "location": [
+        77.06596,
+        28.39395
+      ],
+      "cell_id": "C_044_051",
+      "fsi": 0.7227,
+      "fsi_class": "high"
+    },
+    {
+      "objectid": 407,
+      "location": [
+        77.00513,
+        28.43896
+      ],
+      "cell_id": "C_053_039",
+      "fsi": 0.835,
+      "fsi_class": "very_high"
+    },
+    {
+      "objectid": 807,
+      "location": [
+        77.0375,
+        28.44328
+      ],
+      "cell_id": "C_054_046",
+      "fsi": 0.7681,
+      "fsi_class": "very_high"
+    },
+    {
+      "objectid": 1605,
+      "location": [
+        77.02887,
+        28.50211
+      ],
+      "cell_id": "C_068_044",
+      "fsi": 0.8571,
+      "fsi_class": "very_high"
+    },
+    {
+      "objectid": 2005,
+      "location": [
+        77.03105,
+        28.47922
+      ],
+      "cell_id": "C_062_044",
+      "fsi": 0.8478,
+      "fsi_class": "very_high"
+    }
+  ]
+}

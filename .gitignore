@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# Environment
+.env
+*.env.local
+
+# Data - raw and processed (too large for git; use DVC or manual download)
+data/raw/
+data/processed/
+models/*.pkl
+models/*.joblib
+models/*.json
+!models/fsi_config.json
+# Node / React
+node_modules/
+frontend/dist/
+frontend/.next/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (generated)
+data/reports/*.html
+data/reports/*.png
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Environment and secrets
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Build and temporary files
+.DS_Store
+npm-debug.log*
+
+*.env
+coverage/

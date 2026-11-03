@@ -1,0 +1,51 @@
+{
+  "version": "fsi_v1.0",
+  "created_at": "2026-10-20T19:10:14.208549+00:00",
+  "cell_size_m": 500,
+  "study_bbox": [
+    76.8,
+    28.2,
+    77.25,
+    28.55
+  ],
+  "total_evaluated_cells": 6925,
+  "weights": {
+    "elevation_m": 0.3,
+    "slope_deg": 0.2,
+    "built_up_frac": 0.15,
+    "dist_to_water_m": 0.15,
+    "dist_to_drain_m": 0.1,
+    "veg_frac": 0.05,
+    "water_frac": 0.03,
+    "monsoon_rainfall_mm": 0.02
+  },
+  "inverted_features": [
+    "elevation_m",
+    "slope_deg",
+    "dist_to_water_m",
+    "dist_to_drain_m",
+    "veg_frac"
+  ],
+  "classification_thresholds": {
+    "low": [
+      0.0,
+      0.25
+    ],
+    "moderate": [
+      0.25,
+      0.5
+    ],
+    "high": [
+      0.5,
+      0.75
+    ],
+    "very_high": [
+      0.75,
+      1.0
+    ]
+  },
+  "weight_source": "Arya & Kumar (2023) AHP study, Natural Hazards 117(3)",
+  "prediction_mode": "susceptibility_index",
+  "supervised_ml_feasible": false,
+  "supervised_ml_reason": "Audit proved GMDA surveydate is NULL across all 25 records; no non-flooded negative records exist."
+}
