@@ -59,3 +59,4 @@ if __name__ == "__main__":
     app = create_app()
     log.info("Starting Flood Vulnerability API backend on port %d...", port)
     app.run(host="0.0.0.0", port=port, debug=False)
+app = create_app()
