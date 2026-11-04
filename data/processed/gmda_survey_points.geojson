@@ -1,0 +1,980 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06950438300004,
+          28.455035300000077
+        ]
+      },
+      "properties": {
+        "objectid": 5605,
+        "surveyid": null,
+        "surveytype": "Gully Trap",
+        "waterloggingtype": null,
+        "remarks": "Test",
+        "surveydate": null,
+        "inspectorname": "Ritesh",
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776845747000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776845871000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": "Functional",
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": "IV",
+        "ward": "24",
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{C8BC7FBF-3710-4953-8E51-068226878290}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00439084500005,
+          28.401152066000066
+        ]
+      },
+      "properties": {
+        "objectid": 406,
+        "surveyid": "1",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834248000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847247000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{2265F8AA-B7AD-4FBD-A5BD-3114C92AA47C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02039676000004,
+          28.386267281000073
+        ]
+      },
+      "properties": {
+        "objectid": 2404,
+        "surveyid": "5.4",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834288000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847400000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{3404BE1E-0745-4B23-BBAF-358A21A2A701}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.96678396200008,
+          28.36141393300005
+        ]
+      },
+      "properties": {
+        "objectid": 1206,
+        "surveyid": "5.5",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834213000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847400000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{8F3647B2-1273-45B7-8C48-CA8759A2A435}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01627325100003,
+          28.400069372000075
+        ]
+      },
+      "properties": {
+        "objectid": 1604,
+        "surveyid": "5.2",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834253000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847400000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{B107FDD5-CD06-4EFB-BC67-03F8576E84F3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97781887500008,
+          28.390762005000056
+        ]
+      },
+      "properties": {
+        "objectid": 806,
+        "surveyid": "5.6",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834237000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847454000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{93E64334-99C3-407A-8DA6-CC7DEB34F190}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06595950200006,
+          28.393948505000026
+        ]
+      },
+      "properties": {
+        "objectid": 2804,
+        "surveyid": "6",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834327000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847454000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{645DBAB3-0125-44E7-8854-DABDE98D8637}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00512921200004,
+          28.43896399600004
+        ]
+      },
+      "properties": {
+        "objectid": 407,
+        "surveyid": "MH 10",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834711000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847531000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{DE322D41-9062-4A24-BD6C-F14A3B8254F3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03750221200005,
+          28.443284782000035
+        ]
+      },
+      "properties": {
+        "objectid": 807,
+        "surveyid": "MH 3",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834709000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847699000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{4C720ED0-7253-4D65-A67D-D204C296ECD8}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02886769400004,
+          28.50211350400008
+        ]
+      },
+      "properties": {
+        "objectid": 1605,
+        "surveyid": "MH 11.2",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834731000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847699000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{47257B2A-A961-439B-BBE1-0661F10E2DDA}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03104952300004,
+          28.479218764000052
+        ]
+      },
+      "properties": {
+        "objectid": 2005,
+        "surveyid": "MH 11.1",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834716000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847699000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{C2D03B36-7283-47DC-9274-5933C782CA4C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07753890600003,
+          28.449909716000036
+        ]
+      },
+      "properties": {
+        "objectid": 1207,
+        "surveyid": "MH 9",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834706000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847838000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{CFB405C9-9A42-46FD-874E-342FFCD5806D}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03058340600006,
+          28.400031455000033
+        ]
+      },
+      "properties": {
+        "objectid": 2004,
+        "surveyid": "5.3",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834270000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847883000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{80F797D2-54AC-4E80-A371-EED7B2F9B631}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00971811500006,
+          28.435986394000054
+        ]
+      },
+      "properties": {
+        "objectid": 3604,
+        "surveyid": "2",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834366000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847247000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{F1978A18-40CC-4117-A2D6-FD40FDD762EE}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05739248300006,
+          28.503029483000034
+        ]
+      },
+      "properties": {
+        "objectid": 4004,
+        "surveyid": "3",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834378000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847247000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{81F00624-591F-4D3A-82C6-1740ED0B5A82}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09568635100004,
+          28.50519439800007
+        ]
+      },
+      "properties": {
+        "objectid": 4404,
+        "surveyid": "4",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834387000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847247000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{3C23BC27-F717-4990-B5A9-6F771B310D3E}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.99576188200007,
+          28.415963701000067
+        ]
+      },
+      "properties": {
+        "objectid": 4804,
+        "surveyid": "1",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834400000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847329000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{B5D2A4CD-4F9D-4400-8C06-FD723DED00BA}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02357459100006,
+          28.420558871000026
+        ]
+      },
+      "properties": {
+        "objectid": 3204,
+        "surveyid": "7",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "GMDA Jurisdiction",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834356000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847454000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{C2E22F9B-FDBC-419A-9CA9-83EF20C9A93E}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08509853300006,
+          28.49640177200007
+        ]
+      },
+      "properties": {
+        "objectid": 2805,
+        "surveyid": "MH 4",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834727000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847699000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{C16E14B6-1C95-431A-8829-5BA8F79728D0}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09265341600008,
+          28.47191920000006
+        ]
+      },
+      "properties": {
+        "objectid": 2405,
+        "surveyid": "MH 5",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834726000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847699000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{181361D5-59DB-43FE-9A43-D87E083C4774}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05302319100008,
+          28.422023842000044
+        ]
+      },
+      "properties": {
+        "objectid": 4005,
+        "surveyid": "MH1",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834703000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847838000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{743D2561-3B49-4330-9669-AB2B7E67ED26}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10070971800008,
+          28.446353068000064
+        ]
+      },
+      "properties": {
+        "objectid": 5204,
+        "surveyid": "MH2",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834707000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847838000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{3D9D04A0-6A78-4C54-9299-63EF3385AB0B}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01145794700005,
+          28.47966947200007
+        ]
+      },
+      "properties": {
+        "objectid": 5604,
+        "surveyid": "MH 6",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834714000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847838000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{89332393-A72E-4592-98E3-8CE6471DC22C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07244769200008,
+          28.472757254000044
+        ]
+      },
+      "properties": {
+        "objectid": 6004,
+        "surveyid": "MH 8",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834724000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847838000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{577D3148-AF78-494B-BC22-5FF7B47A1565}"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06749601700005,
+          28.51208592200004
+        ]
+      },
+      "properties": {
+        "objectid": 3205,
+        "surveyid": "MH 7",
+        "surveytype": "Waterlogging",
+        "waterloggingtype": null,
+        "remarks": "Major Hotspots",
+        "surveydate": null,
+        "inspectorname": null,
+        "created_user": "ritesh.gmda@Server",
+        "created_date": 1776834739000,
+        "last_edited_user": "ritesh.gmda@Server",
+        "last_edited_date": 1776847838000,
+        "surveysubtype": null,
+        "water_type_surface": null,
+        "water_type_road": null,
+        "water_tyep_sewerage": null,
+        "water_type_plantation": null,
+        "water_type_drainage": null,
+        "gully_trap": null,
+        "rainwater_harvesting": null,
+        "pumping_station": null,
+        "zone": null,
+        "ward": null,
+        "sector": null,
+        "department": null,
+        "status": null,
+        "globalid": "{B0FED8B4-2021-4983-A2D7-58DAD7160789}"
+      }
+    }
+  ]
+}
